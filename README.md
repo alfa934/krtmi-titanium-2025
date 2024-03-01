@@ -25,6 +25,11 @@ TITANIUM adalah nama tim kami.
 | 9 | Fathiya Nur Assyifa | 1105213058 | Official |
 | 10 | Aqilah Nasywa Azzahra Sofyan | 1105223090 | Elektronika |
 
+## Dosen Pembimbing 👨‍🏫👩‍🏫
+| Pembimbing | Nama |
+| :--- | :--- |
+| Pembimbing 1 | Basith Abdurrohman Asy'ari, S.Tr.T., M.T. |
+| Pembimbing 2 | Arif Abdul Aziz, S.Si., M.Sc., Ph.D |
 
 ## KRTMI 2024 🚮
 Tema : Robot Memilah Sampah <br>
