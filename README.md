@@ -10,6 +10,7 @@
 Kami adalah tim KRTMI (Kontes Robot Tematik Indonesia) dari Telkom University.  <br>
 TITANIUM adalah nama tim kami.
 
+
 ## Anggota TITANIUM 🏃‍♂️🏃‍♀️
 | No | Nama | Nim | Jobdesk |
 | :---: | :--- | :---: | :---: |
@@ -23,3 +24,38 @@ TITANIUM adalah nama tim kami.
 | 8 | Nurlina Sari | 1102223038 | Mekanik |
 | 9 | Fathiya Nur Assyifa | 1105213058 | Official |
 | 10 | Aqilah Nasywa Azzahra Sofyan | 1105223090 | Elektronika |
+
+
+## KRTMI 2024 🚮
+Tema : Robot Memilah Sampah
+Jumlah Robot : 2 (1 otomatis, 1 manual)
+
+Untuk lebih jelas tentang aturan dan tema, baca [Sosialisai KRTMI 2024](https://github.com/alfa934/about-krtmi-titanium/blob/main/Sosialisasi%20KRTMI%202024.pdf)
+
+
+## Sejarah KRTMI 📜
+KRTMI pertama kali muncul tahun 2019, dan saat ini muncul 4 tema baru dari 2019 - 2024
+
+
+## KRTMI 2019 (Robot Pertanian Padi) 🍚🌾
+
+Untuk lebih jelas, baca [Buku Panduan 2019](https://kontesrobotindonesia.id/data/2019/Panduan_KRTMI2019.pdf) 
+
+[![](https://img.youtube.com/vi/F8-s5F6HJD4/0.jpg)](https://www.youtube.com/watch?v=F8-s5F6HJD4) <br>
+video krtmi 2019
+
+
+## KRTMI 2020 (Robot Kesehatan) 😷👨‍⚕️👩‍⚕️
+
+Untuk lebih jelas baca [Buku Panduan 2020](https://kontesrobotindonesia.id/data/2020/PetunjukPelaksanaanKRIDaring2020.pdf) halaman 79
+
+[![](https://img.youtube.com/vi/UGOeJeeyWH8/0.jpg)](https://www.youtube.com/watch?v=UGOeJeeyWH8) <br>
+video krtmi 2020
+
+
+## KRTMI 2021 - 2023 (Robo Game – Digital Twin) 🤖💻
+
+Untuk lebih jelas, baca [Buku Panduan 2023](https://kontesrobotindonesia.id/data/2023/BukuPedomanKRI2023.pdf) halaman 125
+
+[![](https://img.youtube.com/vi/y6UBAx4XsuY/0.jpg)](https://www.youtube.com/watch?v=y6UBAx4XsuY) <br>
+video krtmi 2023
