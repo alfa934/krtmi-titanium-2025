@@ -27,7 +27,7 @@ TITANIUM adalah nama tim kami.
 
 
 ## KRTMI 2024 🚮
-Tema : Robot Memilah Sampah
+Tema : Robot Memilah Sampah <br>
 Jumlah Robot : 2 (1 otomatis, 1 manual)
 
 Untuk lebih jelas tentang aturan dan tema, baca [Sosialisai KRTMI 2024](https://github.com/alfa934/about-krtmi-titanium/blob/main/Sosialisasi%20KRTMI%202024.pdf)
