@@ -14,16 +14,29 @@ TITANIUM adalah nama tim kami.
 ## Anggota TITANIUM 2025 🏃‍♂️🏃‍♀️
 | No | Nama | Nim | Jobdesk |
 | :---: | :--- | :---: | :---: |
-| 1 | Igo Ilham Prakoso | 1102213303 | Mekanik |
-| 2 | Ridho Al Harits | 1101202379 | Program |
-| 3 | Dendi Rifqi Hibatullah | 1101213466 | Elektronika |
-| 4 | Gebby Novalisza | 1102201399 | Elektronika |
-| 5 | Ahmad Fadhil Ghifari Ekaputra | 1102210053 | Program |
-| 6 | Muhammad Aushaf Al Farras | 1102210215 | Official |
-| 7 | Iki Tayubi | 1102223031 | Elektronika |
-| 8 | Nurlina Sari | 1102223038 | Mekanik |
-| 9 | Fathiya Nur Assyifa | 1105213058 | Official |
-| 10 | Aqilah Nasywa Azzahra Sofyan | 1105223090 | Elektronika |
+| 1 | Iki Tayubi | 1102223031 | Elektronika |
+| 2 | Muhammad Aushaf Al Farras | 1102210215 | Program |
+| 3 | Ahmad Fadhil Ghifari Ekaputra | 1102210053 | Program |
+| 4 | Nabilla Rahma Anasya | 1104220025 | Official |
+| 5 | Febrian Josua Kontu | 1102223066 | Program |
+| 6 | Zahrani Cahya Priesa | 1103223074 | Official |
+| 7 | Nurlina Sari | 1102223038 | Mekanik |
+| 8 | Sarah Alexandra Siahaan | 1101220277 | Official |
+| 9 | Muhammad Irfan Nabil | 1102223109 | Elektronika |
+| 10 | Dimas Dwi Septian | 1102223106 | Mekanik |
+| 11 | Muh. Ihksan Hatta | 1101223186 | Official |
+| 12 | Valentine Rusliani Febriana | 102012300364 | Official |
+| 13 | Ihsan Lisanul Arifin | 101022300309 | Mekanik |
+| 14 | Muhammad Syauqi Fakhri | 101022330026 | Elektronika |
+| 15 | Muhammad Miftah Faqih | 101022330177 | Program |
+| 16 | Ivander Sugiarta Halim | 101022330111 | Elektronika |
+| 17 | Mohammad Dzakwan Darrell Rifqi | 103032330138 | Program |
+| 18 | Raditya Satria Pratama | 101032300096 | Program |
+| 19 | Mohammad Hasbi Ashidiqi | 101022330302 | Mekanik |
+| 20 | Raffa Ilyasa | 101022400260 | Elektronika |
+| 21 | Wisnu Klana | 101022400118 | Official | 
+| 22 | Brightly Jonah Aditya Santosa Padmohoetomo | 101022400074 | Program |
+| 23 | Vincentius Radithya Evan Pratomo | 101062300011 | Mekanik | 
 
 ## Dosen Pembimbing 👨‍🏫👩‍🏫
 | Pembimbing | Nama |
