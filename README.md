@@ -41,8 +41,8 @@ TITANIUM adalah nama tim kami.
 ## Dosen Pembimbing 👨‍🏫👩‍🏫
 | Pembimbing | Nama |
 | :--- | :--- |
-| Pembimbing 1 | Basith Abdurrohman Asy'ari, S.Tr.T., M.T. |
-| Pembimbing 2 | Arif Abdul Aziz, S.Si., M.Sc., Ph.D |
+| Pembimbing 1 | Agung Surya Wibowo ,S.T.,M.T., Ph.D |
+| Pembimbing 2 | Basith Abdurrohman Asy'ari, S.Tr.T., M.T. |
 
 ## KRTMI 2025 ??????
 Tema : ?????? <br>
